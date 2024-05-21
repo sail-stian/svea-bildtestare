@@ -5,7 +5,7 @@ document.getElementById("image-upload").addEventListener("change", function () {
 
   // render image
   document.getElementById("uploaded-image1").src = fileURL;
-  document.getElementById("uploaded-image2").src = fileURL;
-  document.getElementById("uploaded-image3").src = fileURL;
-  document.getElementById("uploaded-image4").src = fileURL;
+  // document.getElementById("uploaded-image2").src = fileURL;
+  // document.getElementById("uploaded-image3").src = fileURL;
+  // document.getElementById("uploaded-image4").src = fileURL;
 });
